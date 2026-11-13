@@ -1,2 +1,2 @@
 # Logica-programacao-organizado
-AINDA NÃO PRONTA
+aqui estarei guardando exercícios de logica de programacao
