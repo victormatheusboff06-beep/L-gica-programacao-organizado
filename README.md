@@ -1,2 +1,2 @@
-# L-gica-programacao-organizado
+# Logica-programacao-organizado
 AINDA NÃO PRONTA
